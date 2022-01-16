@@ -21,7 +21,7 @@ print("안녕하세요. \n 만나서 \t\t 반갑습니다.")
 
 # 006
 # 오늘은 , 일요일
-##
+
 # 007
 
 print('naver;kakao;sk;samsung;')
